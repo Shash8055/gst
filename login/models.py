@@ -22,7 +22,6 @@ class R1a(models.Model):
     month = models.CharField(max_length=8)
    # invoice_no = models.IntegerField()
    # cust_name = models.CharField(max_length=20)
-   # state_of_supply = models.CharField(max_length=15
    # invoice_date = models.DateField()
    # invoice_value = models.IntegerField()
    # tax_rate = models.IntegerField()
